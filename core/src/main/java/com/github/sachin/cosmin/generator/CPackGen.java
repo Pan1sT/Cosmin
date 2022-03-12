@@ -247,7 +247,7 @@ public class CPackGen {
         if(mcVersion.equals("v1_17_R1")){
             packFormat = "7";
         }
-        else if(mcVersion.equals("v1_18_R1")){
+        else if(mcVersion.equals("v1_18_R2")){
             packFormat = "8";
         }
         else if(Arrays.asList("v1_16_R1","v1_16_R2","v1_16_R3").contains(mcVersion)){
